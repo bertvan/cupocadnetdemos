@@ -11,6 +11,9 @@ using Autodesk.AutoCAD.Geometry;
 namespace Cupocadnet
 {
 
+    /// <summary>
+    /// Code sample for EntityJig and Dynamic Block Properties
+    /// </summary>
     public class BlockPropertyDragCommands
     {
 
