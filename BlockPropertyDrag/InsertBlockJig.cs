@@ -8,6 +8,9 @@ using Autodesk.AutoCAD.DatabaseServices;
 
 namespace Cupocadnet
 {
+    /// <summary>
+    /// Sample EntityJig for inserting a Dynamic Block
+    /// </summary>
     public class InsertBlockJig:EntityJig
     {
 
